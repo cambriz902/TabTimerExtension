@@ -1,6 +1,7 @@
 # TabTimerExtension
 
 **Summary**
+
 This chrome extension will display all the tabs you have open in a Table. The tabs are sorted from left to right in the Table.
 Each Table row shows the tab index, tab icon, and total tab active time(seconds). This extension will help you keep track of 
 which tabs you spend the most time viewing.
