@@ -4,11 +4,11 @@
   "description": "keeps track of time a tab has been active",
   "version" : "1.0",
   "browser_action" : {
-    "default_icon": "icon.png",
-    "default_popup" : "popup.html"
+    "default_icon": "./images/icon.png",
+    "default_popup" : "./popup.html"
   },
   "background": {
-    "scripts": ["background.js"]
+    "scripts": ["./javascript/background.js"]
   },
   "permissions" : ["activeTab", "tabs"]
 }
