@@ -1,7 +1,6 @@
 function TabTimerBackground() {}
 
 (function () {
-  let THIS = this;
   let tabTimes = {};
   let prevActiveTimeStamp = null;
   let prevActiveId = null;
